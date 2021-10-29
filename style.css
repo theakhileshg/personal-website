@@ -1,0 +1,37 @@
+
+.head-section{
+    font-family: 'Popins' sans-serif ;
+    font-size: 20px;
+ 
+}
+.head-section:hover{
+   
+    background: rgb(206, 197, 224);
+    opacity: 0.9;
+}
+
+.card-section{
+    box-shadow: 0px 0px 1px 1px rgb(145, 122, 122);
+    
+}
+.card-section:hover{
+    box-shadow: 0px 0px 0px 2px #af8686;
+   
+    
+}
+.mail-section{
+    text-decoration: none;
+    cursor: pointer;
+
+}
+.mail-section:hover{
+    text-decoration: none;
+}
+
+a i{
+    transition: all 0.3s linear;
+}
+a:hover i{
+    transform: scale(1.4);
+}
+
